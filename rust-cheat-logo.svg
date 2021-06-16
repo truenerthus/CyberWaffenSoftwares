@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:ns1="http://sozi.baierouge.fr" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48"
+	 style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E57373;}
+	.st1{fill:#E53935;}
+	.st2{fill:#B71C1C;}
+	.st3{fill:none;stroke:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="27.203376" inkscape:cy="26.578528" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="968" inkscape:window-maximized="1" inkscape:window-width="1280" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:zoom="11.313708" pagecolor="#ffffff" showgrid="true">
+	<inkscape:grid  empspacing="5" enabled="true" id="grid2985" snapvisiblegridlinesonly="true" type="xygrid" visible="true">
+		</inkscape:grid>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0 -1004.4)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="g3000" transform="translate(-6,1003)">
+		<path id="path2987" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" class="st0" d="M30,2.4l-20,10l20,10l20-10
+			L30,2.4z"/>
+		<path id="path2989" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" class="st1" d="M30,22.4v25l20-10v-25L30,22.4z"
+			/>
+		<path id="path2991" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" class="st2" d="M30,22.4v25l-20-10v-25L30,22.4z
+			"/>
+		<path id="path2993" inkscape:connector-curvature="0" class="st3" d="M30,2.4l-20,10v25l20,10l20-10v-25L30,2.4z"/>
+	</g>
+</g>
+</svg>
